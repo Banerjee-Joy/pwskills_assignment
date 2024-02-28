@@ -1,2 +1,2 @@
-# pwskills_assignment
-# all the assignments and projects learned in Data Science Masters 
+# Pwskills_assignment
+# All the assignments and projects learned in Data Science Masters 
